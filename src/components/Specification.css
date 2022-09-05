@@ -1,0 +1,66 @@
+.specification-section {
+    background-color: rgb(26, 36, 44);
+    padding-top: 100px;
+    text-align: center;
+}
+
+.specification-section-one {
+    display: flex;
+    justify-content: space-around;
+}
+
+.spec-left img {
+    width: 350px;
+    padding-top: 50px;
+}
+
+.spec-right {
+    text-align: center;
+    line-height: 30px;
+}
+
+.spec-right h2 {
+    font-size: 35px;
+}
+
+.specification-section-two {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.specification-section hr {
+    width: 80%;
+    height: 3px;
+    background-color: white;
+    border: none;
+    margin-bottom: 50px;
+}
+
+.cubes {
+    width: 300px;
+    line-height: 30px;
+    margin-bottom: 25px;
+}
+
+.cubes h2 {
+    font-size: 35px;
+}
+
+.cubes span {
+    font-size: 18px;
+}
+
+.cubes img {
+    width: 300px;
+}
+
+.spec-span {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.bottom-container {
+    padding-bottom: 50px;
+}
