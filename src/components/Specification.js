@@ -5,7 +5,7 @@ import './Specification.css';
 
 export default function Specification() {
   return (
-    <div className='specification-section'>
+    <div className='specification-section custom'>
     <div className='specification-section-one'>
       <div className="spec-left">
 <img src="./images/datatactics-logo-xl.png"></img>
@@ -35,7 +35,7 @@ export default function Specification() {
     </div>
     <hr></hr>
     <div className="bottom-container">
-    <span className='spec-span'>"DataOps vereint maschinelles Lernen, agiles Vorgehen, DevOps und Lean Manufacturing in der IT."</span>
+    <span className='custom-span'>"DataOps vereint maschinelles Lernen, agiles Vorgehen, DevOps und Lean Manufacturing in der IT."</span>
     </div>
    
     </div>

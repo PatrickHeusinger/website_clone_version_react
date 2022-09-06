@@ -21,6 +21,7 @@
 
 .spec-right h2 {
     font-size: 35px;
+    font-family: 'Oswald';
 }
 
 .specification-section-two {
@@ -28,39 +29,4 @@
     justify-content: space-around;
     text-align: center;
     padding-top: 100px;
-}
-
-.specification-section hr {
-    width: 80%;
-    height: 3px;
-    background-color: white;
-    border: none;
-    margin-bottom: 50px;
-}
-
-.cubes {
-    width: 300px;
-    line-height: 30px;
-    margin-bottom: 25px;
-}
-
-.cubes h2 {
-    font-size: 35px;
-}
-
-.cubes span {
-    font-size: 18px;
-}
-
-.cubes img {
-    width: 300px;
-}
-
-.spec-span {
-    font-size: 25px;
-    margin-bottom: 25px;
-}
-
-.bottom-container {
-    padding-bottom: 50px;
 }

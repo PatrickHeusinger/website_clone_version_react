@@ -22,10 +22,12 @@ h1 {
     font-size: 50px;
     font-weight: 400;
     margin-bottom: 10px;
+    font-family: 'Oswald';
 }
 
 .custom-span-header {
     font-size: 30px;
+    font-family: 'Oswald';
 }
 
 .custom-span-underline {
@@ -59,6 +61,7 @@ h1 {
 
 .bar img {
     width: 120px;
+    cursor: pointer;
 }
 
 .white {

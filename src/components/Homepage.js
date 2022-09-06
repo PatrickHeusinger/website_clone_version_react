@@ -14,7 +14,7 @@ function Homepage() {
      <div className='homepage-container'>
        <div id="head" className={scroll ? "bg-black" : "bg-white"}>
  <div className='bar'>
-    <img alt="logo from company" src="./images/datatactics-logo-sm.png"></img>
+   <a href='index.html'><img alt="logo from company" src="./images/datatactics-logo-sm.png"></img></a> 
     </div>
     </div>
     <div className="center-homepage">

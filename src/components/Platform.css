@@ -1,0 +1,14 @@
+.platform-section img {
+    width: 100%;
+}
+
+.platform-section h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Oswald';
+    font-weight: 400;
+}
+
+.footer-headline {
+    text-decoration: underline;
+}

@@ -2,9 +2,85 @@ body {
     margin: 0;
     font-family: sans-serif;
     color: white;
+    background-color: rgb(26, 36, 44);
 }
 
 .navbar-logo>img {
     width: 110px;
     padding: 10px 30px;
+}
+
+.bottom-container {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.custom hr {
+    width: 80%;
+    height: 3px;
+    background-color: white;
+    border: none;
+    margin-bottom: 50px;
+}
+
+.custom-span {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.cubes {
+    width: 300px;
+    line-height: 30px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.cubes h2 {
+    font-size: 35px;
+    font-family: 'Oswald';
+    font-weight: 400;
+}
+
+.cubes span {
+    font-size: 18px;
+}
+
+.cubes img {
+    width: 300px;
+}
+
+.service-headline {
+    display: flex;
+    justify-content: space-around;
+}
+
+.service-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.service-right {
+    width: 50%;
+    text-align: center;
+    line-height: 30px;
+    padding: 50px;
+}
+
+.service-right h3 {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.service-left h2 {
+    font-size: 40px;
+    font-family: 'Oswald';
+    font-weight: 400;
+}
+
+.service-container-bottom {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
 }
